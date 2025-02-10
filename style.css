@@ -1,5 +1,15 @@
-.header {
-  font-size:100px;
-  text-align:center;
+.line {
   border-bottom:1px solid black;
+}
+
+.h {
+  text-align:center;
+}
+
+.h1 {
+  font-size:100px;
+}
+
+.h2 {
+  font-size:60px;
 }
